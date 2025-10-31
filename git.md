@@ -19,3 +19,5 @@ texto tem que usar "" quando é texto
 
 console.log("1"+"1") //11
 juntar texto = concatenar
+
+const = constante const
