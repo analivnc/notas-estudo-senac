@@ -1,8 +1,7 @@
-const temperatura = 25
-const fa = 32
-const celcius = 0
+var C = 24
+let converte = C * 1.7 + 32
+console.log("O resultado da conversão é:", converte)
 
-console.log(21 + 32)
 
 
 
